@@ -1,0 +1,49 @@
+body{
+    background: #1ebea5;
+}
+.geral{
+    width: 80;
+    height: 80;
+    padding: 50px;
+    text-align: center;
+}
+h1{
+    color: #ffffff;
+    font-family: -apple-system, "Segoe UI","Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 31px;
+    font-style: normal;
+}
+p{
+    color: #ffffff;
+    font-family: -apple-system, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    font-style: normal;
+}
+.geral img{
+    width: 80px;
+    height: 80px;
+}
+.logoo img{
+    width: 51%;
+    height: 51%;
+}
+button{
+    margin: 17px 2px;
+    padding: 18px 45px;
+    border-radius: 50px;
+    border: none;
+    background-color: #01e675;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 35px 2px;
+}
+
+
